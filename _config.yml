@@ -1,0 +1,12 @@
+# Site settings
+title: Comflab
+email: info@comflab.co.uk
+description: "Chatting your language"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+twitter_username: comflabtweet
+github_username: comflab
+
+# Build settings
+markdown: kramdown
